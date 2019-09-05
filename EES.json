@@ -1,10 +1,11 @@
 {
     "$jason": {
         "body": {
-        "background": {
-            "type": "html",
-            "url": "http://www.kafedra-ees.ru/",
-        }
+            "background": {
+                "type": "html",
+                "url": "http://www.kafedra-ees.ru/",
+            }
         }
     }
 }
+
