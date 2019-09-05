@@ -14,11 +14,11 @@
     },
     "body": {
       "header": {
-        "title": "Web Container 2.0"
+        "title": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»"
       },
       "background": {
         "type": "html",
-        "url": "file://index.html"
+        "url": "http://www.kafedra-ees.ru/"
       }
     }
   }
