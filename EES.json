@@ -1,32 +1,25 @@
 {
-    $jason:
-    {
-        head:
-        {
-            actions:
-            {
-                displayBanner:
-                {
-                    type: "$util.banner"
-                    options:
-                    {
-                        title: "Clicked"
-                        description: "Link {{$jason.url}} clicked!"
-                    }
-                }
-            }
+  "$jason": {
+    "head": {
+      "actions": {
+        "$load": {
+          "type": "$agent.request",
+          "options": {
+            "id": "$webcontainer",
+            "method": "login",
+            "params": ["alice", "1234"]
+          }
         }
-        body:
-        {
-            background:
-            {
-                type: "html"
-                url: "http://www.kafedra-ees.ru/"
-                action:
-                {
-                    trigger: "displayBanner"
-                }
-            }
-        }
+      }
+    },
+    "body": {
+      "header": {
+        "title": "Web Container 2.0"
+      },
+      "background": {
+        "type": "html",
+        "url": "file://index.html"
+      }
     }
+  }
 }
