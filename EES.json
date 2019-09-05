@@ -19,7 +19,7 @@
       "background": {
         "type": "html",
         "url": "http://www.kafedra-ees.ru/"
-        "actions": {
+        "action": {
           "trigger": "navigate",
         }
       }
