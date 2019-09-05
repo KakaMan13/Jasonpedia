@@ -54,7 +54,7 @@
           },
           "sections": [{
             "items": [{
-              "type": "vertical",
+              "type": "horizontal",
               "style": {
                 "spacing": "10"
               },
