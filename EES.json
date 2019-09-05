@@ -21,6 +21,7 @@
         "url": "http://www.kafedra-ees.ru/"
         "actions": {
           "trigger": "navigate",
+        }
       }
     }
   }
