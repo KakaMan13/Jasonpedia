@@ -1,9 +1,6 @@
 {
   "$jason": {
     "body": {
-      "header": {
-        "title": "KAFEDRA EES 2.0"
-      },
       "background": {
         "type": "html",
         "url": "https://www.google.com/doodles/"
