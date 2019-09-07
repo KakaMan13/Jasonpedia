@@ -38,7 +38,7 @@
       },
         "body": {
         "header": {
-            
+            "type": "horizontal",
             "style": {
               "align": "center",
               "background": "#ECA73E",
