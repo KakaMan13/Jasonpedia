@@ -15,6 +15,7 @@
                 }, {
                     "title": "Контакты"
                 }]
+            }    
         },
         "background": {
             "type": "html",
