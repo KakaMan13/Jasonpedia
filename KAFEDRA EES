@@ -6,8 +6,8 @@
           "bold": {
             "font": "HelveticaNeue-CondensedBold",
             "color": "rgb(154, 205, 50)",
-            "padding": "10",
-            "size": "15"
+            "padding": "5",
+            "size": "25"
           },
           "normal": {
             "font": "HelveticaNeue-Bold",
@@ -43,15 +43,15 @@
             "style": {
               "align": "center",
               "background": "#ffffff",
-              "opacity": "0.5",
-              "spacing": "10"
+              "opacity": "0.2",
+              "spacing": "5"
             },
             "components": [
               {
                 "type": "image",
                 "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
                 "style": {
-                  "width": "50"
+                  "width": "100"
                 }
               },
               {
