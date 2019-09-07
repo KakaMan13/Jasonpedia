@@ -39,22 +39,16 @@
       },
         "body": {
         "header": {
-            "type": "horizontal",
-            
-            "components": [
-              {
-                "type": "image",
-                "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
-                "style": {
-                  "width": "50"
+            "style": {
+                "background": "#ECA73E"
+            },
+            "menu": {
+                "text": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»",
+                "href": {
+                    "url": "http://www.kafedra-ees.ru/",
+                    "view": "web"
                 }
-              },
-              {
-                "type": "label",
-                "class": "bold",
-                "text": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»"
-              }
-            ]
+            }
           },
         "background": {
             "type": "html",
