@@ -6,7 +6,10 @@
         },
         "background": {
             "type": "html",
-            "url": "http://www.kafedra-ees.ru/"
+            "url": "http://www.kafedra-ees.ru/",
+            "action": {
+                "trigger": "navigate"
+            }
         }
         }
     }
