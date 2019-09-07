@@ -7,11 +7,13 @@
                 "items": [{
                     "title": "Главная"
                 }, {
-                    "image": "https://img.icons8.com/ios/30/000000/library.png",
-                    "url": "http://www.kafedra-ees.ru"
+                    "title": "Студентам"
                 }, {
-                    "image": "https://img.icons8.com/ios/30/000000/library.png",
-                    "url": "http://www.kafedra-ees.ru"
+                    "title": "Курсы ДПО"
+                }, {
+                    "title": "О Нас"
+                }, {
+                    "title": "Контакты"
                 }]
         },
         "background": {
