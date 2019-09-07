@@ -1,6 +1,7 @@
 {
     "$jason": {
       "head": {
+        "title": "Sections Example",
         "styles": {
           "bold": {
             "font": "HelveticaNeue-CondensedBold",
@@ -36,25 +37,13 @@
           }
         }
       },
-      
         "body": {
-        "background": {
-            "type": "html",
-            "url": "http://www.kafedra-ees.ru/",
-            "style": {
-                  "width": "1"
-                }
-            "action": {
-                "trigger": "navigate"
-            }
-        },
-        
         "header": {
             "type": "horizontal",
             "style": {
               "align": "center",
-              "background": "#ECA73E",
-              "opacity": "0.2",
+              "background": "#ffffff",
+              "opacity": "0.5",
               "spacing": "10"
             },
             "components": [
@@ -62,7 +51,7 @@
                 "type": "image",
                 "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
                 "style": {
-                  "width": "10"
+                  "width": "50"
                 }
               },
               {
@@ -72,7 +61,13 @@
               }
             ]
           },
-        
+        "background": {
+            "type": "html",
+            "url": "http://www.kafedra-ees.ru/",
+            "action": {
+                "trigger": "navigate"
+            }
+        },
         "footer": {
             "tabs": {
                 "items": [{
