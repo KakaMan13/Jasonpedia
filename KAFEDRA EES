@@ -40,12 +40,7 @@
         "body": {
         "header": {
             "type": "horizontal",
-            "style": {
-              "align": "center",
-              "background": "#ffffff",
-              "opacity": "0.5",
-              "spacing": "10"
-            },
+            
             "components": [
               {
                 "type": "image",
