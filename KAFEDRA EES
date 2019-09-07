@@ -41,6 +41,9 @@
         "background": {
             "type": "html",
             "url": "http://www.kafedra-ees.ru/",
+            "style": {
+                  "width": "10"
+                }
             "action": {
                 "trigger": "navigate"
             }
