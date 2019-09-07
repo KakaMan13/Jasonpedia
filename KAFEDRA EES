@@ -47,7 +47,12 @@
                "href": {
                 "url": "http://www.kafedra-ees.ru",
                 "view": "web"
-               }     
+               }
+               "text": "БЛА БЛА",
+               "href": {
+                "url": "http://www.kafedra-ees.ru",
+                "view": "web"
+               }
             }
           },
         "background": {
