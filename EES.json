@@ -2,7 +2,17 @@
     "$jason": {
         "body": {
         "header": {
-            "title": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»"
+            "title": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»",
+            "tabs": {
+                "items": [{
+                    "title": "Главная"
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "http://www.kafedra-ees.ru"
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "http://www.kafedra-ees.ru"
+                }]
         },
         "background": {
             "type": "html",
