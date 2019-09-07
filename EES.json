@@ -2,7 +2,7 @@
     "$jason": {
         "body": {
         "header": {
-            "title": "Кафедра ЭЭС»"    
+            "title": "Кафедра ЭЭС"    
         },
         "background": {
             "type": "html",
@@ -18,10 +18,10 @@
                     "url": "http://www.kafedra-ees.ru/Контакты/"
                 }, {
                     "image": "https://img.icons8.com/ios/30/000000/library.png",
-                    "url": "http://www.kafedra-ees.ru"
+                    "url": "https://www.google.com/"
                 }, {
                     "image": "https://img.icons8.com/ios/30/000000/library.png",
-                    "url": "http://www.kafedra-ees.ru"
+                    "url": "https://yandex.ru"
                 }]
             }
         }    
