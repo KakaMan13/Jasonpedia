@@ -37,6 +37,29 @@
           }
         }
       },
+      "header": {
+            "type": "horizontal",
+            "style": {
+              "align": "center",
+              "background": "#ECA73E",
+              "opacity": "0.2",
+              "spacing": "10"
+            },
+            "components": [
+              {
+                "type": "image",
+                "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
+                "style": {
+                  "width": "50"
+                }
+              },
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "КАФЕДРА ЭЭС"
+              }
+            ]
+          },
         "body": {
         "header": {
             "style": {
