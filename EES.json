@@ -1,17 +1,5 @@
 {
     "$jason": {
-        "head": {
-        "actions": {
-            "$load": {
-            "type": "$agent.request",
-            "options": {
-                "id": "$webcontainer",
-                "method": "login",
-                "params": ["alice", "1234"]
-            }
-            }
-        }
-        },
         "body": {
         "header": {
             "title": "Web Container 2.0"
