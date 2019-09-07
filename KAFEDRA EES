@@ -61,18 +61,7 @@
             ]
           },
         "body": {
-        "header": {
-            "style": {
-                "background": "#ECA73E"
-            },
-            "menu": {
-                "text": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»",
-                "href": {
-                    "url": "http://www.kafedra-ees.ru/",
-                    "view": "web"
-                }
-            }
-          },
+        
         "background": {
             "type": "html",
             "url": "http://www.kafedra-ees.ru/",
