@@ -2,20 +2,7 @@
     "$jason": {
         "body": {
         "header": {
-            "title": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»",
-            "tabs": {
-                "items": [{
-                    "title": "Главная"
-                }, {
-                    "title": "Студентам"
-                }, {
-                    "title": "Курсы ДПО"
-                }, {
-                    "title": "О Нас"
-                }, {
-                    "title": "Контакты"
-                }]
-            }    
+            "title": "KAFEDRA EES»"    
         },
         "background": {
             "type": "html",
