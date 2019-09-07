@@ -18,7 +18,10 @@
                     "url": "http://www.kafedra-ees.ru/Контакты/"
                 }, {
                     "image": "https://img.icons8.com/ios/30/000000/library.png",
-                    "url": "https://www.google.com/"
+                    "url": "https://www.google.com/",
+                    "action": {
+                        "trigger": "navigate"
+                    }
                 }, {
                     "image": "https://img.icons8.com/ios/30/000000/library.png",
                     "url": "https://yandex.ru"
