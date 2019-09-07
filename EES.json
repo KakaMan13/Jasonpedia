@@ -2,7 +2,7 @@
     "$jason": {
         "body": {
         "header": {
-            "title": "Web Container 2.0"
+            "title": "Kafedra EES"
         },
         "background": {
             "type": "html",
@@ -10,7 +10,21 @@
             "action": {
                 "trigger": "navigate"
             }
-        }
+        },
+        "footer": {
+            "tabs": {
+                "items": [{
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "http://www.kafedra-ees.ru",
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "http://www.kafedra-ees.ru",
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "http://www.kafedra-ees.ru",
+                }]
+            }
+        }    
         }
     }
 }
