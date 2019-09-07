@@ -37,15 +37,13 @@
           }
         }
       },
-      "header": {
-            "type": "horizontal",
+        "body": {
+            "header": {
             "style": {
-              "align": "center",
-              "background": "#ECA73E",
-              "opacity": "0.2",
-              "spacing": "10"
+                "background": "#ffffff"
             },
-            "components": [
+            "menu": {
+                "components": [
               {
                 "type": "image",
                 "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
@@ -56,12 +54,15 @@
               {
                 "type": "label",
                 "class": "bold",
-                "text": "КАФЕДРА ЭЭС"
+                "text": "KAFEDRA EES"
               }
             ]
+                "href": {
+                    "url": "http://www.kafedra-ees.ru/",
+                    "view": "web"
+                }
+            }
           },
-        "body": {
-        
         "background": {
             "type": "html",
             "url": "http://www.kafedra-ees.ru/",
