@@ -40,7 +40,7 @@
         "body": {
             "header": {
             "style": {
-                "background": "#ffffff"
+                "background": "rgba(0,0,0,0)"
             },
             "menu": {
                "text": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»",
