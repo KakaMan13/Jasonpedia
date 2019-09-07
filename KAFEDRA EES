@@ -1,13 +1,12 @@
 {
     "$jason": {
       "head": {
-        "title": "Sections Example",
         "styles": {
           "bold": {
             "font": "HelveticaNeue-CondensedBold",
             "color": "rgb(154, 205, 50)",
-            "padding": "5",
-            "size": "25"
+            "padding": "10",
+            "size": "15"
           },
           "normal": {
             "font": "HelveticaNeue-Bold",
@@ -39,12 +38,12 @@
       },
         "body": {
         "header": {
-            "type": "horizontal",
+            
             "style": {
               "align": "center",
-              "background": "#ffffff",
+              "background": "#ECA73E",
               "opacity": "0.2",
-              "spacing": "5"
+              "spacing": "10"
             },
             "components": [
               {
