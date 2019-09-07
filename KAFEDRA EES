@@ -1,0 +1,90 @@
+{
+    "$jason": {
+      "head": {
+        "title": "Sections Example",
+        "styles": {
+          "bold": {
+            "font": "HelveticaNeue-CondensedBold",
+            "color": "rgb(154, 205, 50)",
+            "padding": "10",
+            "size": "15"
+          },
+          "normal": {
+            "font": "HelveticaNeue-Bold",
+            "color": "rgb(154, 205, 50)",
+            "size": "12"
+          },
+          "carousel_img": {
+            "height": "210",
+            "width": "210"
+          },
+          "avatar_img": {
+            "height": "70",
+            "width": "70",
+            "corner_radius": "35"
+          },
+          "username": {
+            "font": "Avenir",
+            "size": "15"
+          },
+          "center": {
+            "align": "center"
+          }
+        },
+        "actions": {
+          "$foreground": {
+            "type": "$reload"
+          }
+        }
+      },
+        "body": {
+        "header": {
+            "type": "horizontal",
+            "style": {
+              "align": "center",
+              "background": "#ffffff",
+              "opacity": "0.5",
+              "spacing": "10"
+            },
+            "components": [
+              {
+                "type": "image",
+                "url": "http://www.kafedra-ees.ru/gallery_gen/0e87a6410c0ebf7cfc9891239ba185e0.png",
+                "style": {
+                  "width": "50"
+                }
+              },
+              {
+                "type": "label",
+                "class": "bold",
+                "text": "КАФЕДРА ЭЛЕКТРОЭНЕРГЕТИЧЕСКИХ СИСТЕМ НИУ «МЭИ»"
+              }
+            ]
+          },
+        "background": {
+            "type": "html",
+            "url": "http://www.kafedra-ees.ru/",
+            "action": {
+                "trigger": "navigate"
+            }
+        },
+        "footer": {
+            "tabs": {
+                "items": [{
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "https://raw.githubusercontent.com/KakaMan13/Jasonpedia/gh-pages/EES.json"
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "href": {
+                         "url": "https://yandex.ru",
+                         "view": "web"
+                    }
+                }, {
+                    "image": "https://img.icons8.com/ios/30/000000/library.png",
+                    "url": "https://yandex.ru"
+                }]
+            }
+        }    
+        }
+    }
+}
