@@ -51,11 +51,11 @@
             }
           },
         "background": {
-        *    "type": "html",
-        *    "url": "http://www.kafedra-ees.ru/",
-        *    "action": {
-        *        "trigger": "navigate"
-        *    },
+            "type": "html",
+            "url": "http://www.kafedra-ees.ru/",
+            "action": {
+                "trigger": "navigate"
+            },
             "style": {
                 "background": "#ffffff",
                 "progress": "rgba(0,0,0,0)"
